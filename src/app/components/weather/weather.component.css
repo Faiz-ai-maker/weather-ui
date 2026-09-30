@@ -1,0 +1,49 @@
+.container {
+  padding: 20px;
+}
+
+.toolbar {
+  margin-bottom: 15px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px 12px;
+}
+
+input {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 6px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #1976d2;
+  color: white;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.loading {
+  color: blue;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
